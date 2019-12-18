@@ -1,4 +1,4 @@
-def parrot(argumemt = "Squawk")
+def parrot(argumemt = "Squawk!")
   puts argumemt
   returns argumemt
 end
